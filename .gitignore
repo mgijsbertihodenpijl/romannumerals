@@ -1,3 +1,6 @@
 .gradle
 core/build
 test/build
+
+.idea
+*.iml
